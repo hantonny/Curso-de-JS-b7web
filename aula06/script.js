@@ -1,6 +1,4 @@
-var data = new Date()
-var hora = data.getHours()
-
+var hora = 8
 
 if (hora < 12) {
     console.log("Bom dia!")
