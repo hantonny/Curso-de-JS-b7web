@@ -1,0 +1,10 @@
+.texto {
+    margin: auto;
+    width: 650px;
+    height: 650px;
+    overflow: auto;
+    background-color: #CCC;
+    padding: 20px;  
+    border: 2px solid #FF0000;
+    font-size: 1.1rem;
+}
