@@ -1,3 +1,4 @@
+document.querySelector('#botao').style.visibility = "hidden";
 function subirTela() {
     window.scrollTo({
         top: 0,
